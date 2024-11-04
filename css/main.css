@@ -108,7 +108,7 @@ img {
   position: relative;
   width: 100%;
   height: 80vh;
-  background: url("../images/hero-bg.jpg") center/cover no-repeat;
+  background: url("../images/hero-bg.webp") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -202,7 +202,7 @@ img {
 .creative-journey {
   position: relative;
   padding-top: 100px;
-  background-image: url(../images/art-about.png);
+  background-image: url(../images/art-about.webp);
   background-position-x: right;
   background-position-y: top;
   background-repeat: no-repeat;
@@ -339,7 +339,7 @@ img {
 
 /* STEPS */
 .step-section {
-  background: url("../images/main-kids-bg.jpg") center/cover no-repeat;
+  background: url("../images/main-kids-bg.webp") center/cover no-repeat;
   height: 100vh;
   height: 875px;
   display: flex;
@@ -705,7 +705,7 @@ img {
   color: #ffffff;
 
   position: relative;
-  background-image: url(../images/footer-bgr.jpg);
+  background-image: url(../images/footer-bgr.webp);
 }
 
 .footer-container {
